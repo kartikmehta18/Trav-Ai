@@ -52,3 +52,19 @@ To set up the project locally, follow these steps:
    ```bash
    git clone https://github.com/kartikmehta18/Trav-Ai.git
    cd Trav-Ai
+
+2. **Install dependencies:**:
+   ```bash
+   npm install
+
+3. **Install dependencies:**:
+   ```bash
+   npm run dev
+
+## Future Enhancements (we are open for open collabration)
+
+1. **Flight Booking Integration:**: Add flight booking options directly in the app.
+2. **Advanced Itinerary Customization:**: Allow users to manually edit /generated itineraries.
+3. **Real-Time Weather Updates:**:Provide weather forecasts for planned destinations.
+
+# Show Your Support ⭐
