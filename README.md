@@ -41,15 +41,6 @@
 
 ![TravAI UI](./public/image1.png)  <!-- Replace with the correct path to your image -->
 
-
-## 📌 Tech Stacks!
-
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
 ## Features
 
 - **AI-Powered Itinerary Generation**: Get custom travel plans tailored to your preferences and budget.
