@@ -1,5 +1,6 @@
 # TravAI - Your AI-Powered Trip Planner 🧳🌍
 
+
 ![TravAI UI](./path/to/your/image.png)  <!-- Replace with the correct path to your image -->
 
 **Live Demo:** [TravAI on Vercel](https://trav-ai.vercel.app/)  
@@ -9,6 +10,7 @@
 
 **TravAI** is an innovative application designed to help users create, organize, and manage their travel itineraries using the power of AI. This full-stack project leverages a variety of cutting-edge technologies to offer users a seamless and personalized travel planning experience. From custom itineraries and budget-friendly hotel suggestions to secure storage and collaborative features, TravAI enhances every aspect of your journey planning.
 
+![TravAI UI](./public/image.png)  <!-- Replace with the correct path to your image -->
 ## Features
 
 - **AI-Powered Itinerary Generation**: Get custom travel plans tailored to your preferences and budget.
