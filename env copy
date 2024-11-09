@@ -1,0 +1,14 @@
+VITE_GOOGLE_PLACE_API_KEY=AIzaSyDueMX_cdqZSjdzL4JcnIiM__QL4kCy0q4
+
+VITE_GOOGLE_GEMINI_AI_API_KEY=AIzaSyCZoelbwtY6n0Bg9rtKhs4UDN9VUW12Z_4
+
+VITE_GOOGLE_AUTH_CLIENT_ID=25354527211-rjjvmo0evkbl1h4bg6svofsnpfk37k6h.apps.googleusercontent.com
+
+VITE_STRIPE_KEY=pk_test_51NDNW7SCAvXlgTqlOMnhPtwCe61u4g8g1GKKzNgSFMQMAxlsNAHcN33tW9XMFfnwJQJvSw2kpFrMkowcMEkDtmlH00SJZhoy1T
+
+VITE_STRIPE_KEY_SEC=sk_test_51NDNW7SCAvXlgTql3n2aUgZSThtdBzI3SvTHlLBXMQc1ptV3LzTTR1y6mzW6jEVcvimAGBDXiQCMHF2b3z7ctKyA006LfYElt7
+
+https://travai.onrender.com/ post
+https://travai.onrender.com/payment/${paymentId} get
+
+VITE_DOMAIN= "/"
