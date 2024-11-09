@@ -1,16 +1,55 @@
 # TravAI - Your AI-Powered Trip Planner 🧳🌍
 
 
-![TravAI UI](./path/to/your/image.png)  <!-- Replace with the correct path to your image -->
-
 **Live Demo:** [TravAI on Vercel](https://trav-ai.vercel.app/)  
-**GitHub Repository:** [TravAI GitHub](https://github.com/kartikmehta18/Trav-Ai)
+
+
+---
+
+<div align="center">
+  <a href="https://github.com/kartikmehta18/Trav-Ai/stargazers">
+    <img src="https://img.shields.io/github/stars/kartikmehta18/Trav-Ai?style=social" alt="Stars"/>
+  </a>
+  <a href="https://github.com/kartikmehta18/Trav-Ai/network/members">
+    <img src="https://img.shields.io/github/forks/kartikmehta18/Trav-Ai?style=social" alt="Forks"/>
+  </a>
+  <a href="https://github.com/kartikmehta18/Trav-Ai/issues">
+    <img src="https://img.shields.io/github/issues/kartikmehta18/Trav-Ai" alt="Issues"/>
+  </a>
+  <a href="https://github.com/kartikmehta18/Trav-Ai/pulls">
+    <img src="https://img.shields.io/github/issues-pr/kartikmehta18/Trav-Ai" alt="Open PRs"/>
+  </a>
+  <a href="https://github.com/kartikmehta18/Trav-Ai/pulls?q=is%3Apr+is%3Aclosed">
+    <img src="https://img.shields.io/github/issues-pr-closed/kartikmehta18/Trav-Ai" alt="Closed PRs"/>
+  </a>
+</div>
+
+## 📌 Tech Stacks!
+
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Google Gemini API](https://img.shields.io/badge/Google%20Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+---
 
 ## Overview
 
 **TravAI** is an innovative application designed to help users create, organize, and manage their travel itineraries using the power of AI. This full-stack project leverages a variety of cutting-edge technologies to offer users a seamless and personalized travel planning experience. From custom itineraries and budget-friendly hotel suggestions to secure storage and collaborative features, TravAI enhances every aspect of your journey planning.
 
 ![TravAI UI](./public/image1.png)  <!-- Replace with the correct path to your image -->
+
+
+## 📌 Tech Stacks!
+
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 ## Features
 
 - **AI-Powered Itinerary Generation**: Get custom travel plans tailored to your preferences and budget.
