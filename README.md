@@ -2,7 +2,7 @@
 
 
 **Live Demo:** [TravAI on Vercel](https://trav-ai.vercel.app/)  
-
+**YouTube Video:** [TravAI on YouTube](https://youtu.be/vsc9mBvy__s?si=5C_jIffysJx9u78G) 
 
 ---
 
